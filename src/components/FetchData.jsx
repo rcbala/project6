@@ -2,7 +2,7 @@ import React from 'react';
 import data from './Data.json';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import './FetchData.css';
-import { Link, useNavigate } from 'react-router-dom';
+
 
 const FetchData = (props) => {
     
