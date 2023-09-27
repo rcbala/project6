@@ -1,0 +1,48 @@
+.box{
+    background-color: whitesmoke;
+    box-shadow: 1cm;
+    background-size: cover;
+    border-radius: 8px;
+    padding-right: 40px;
+    
+    
+}
+.box h1{
+    padding-top: 10px;
+    padding-left: 10px;
+    font-size: x-large;
+    font-weight: 600;
+    color: rgb(25, 49, 108);
+}
+.box p{
+    color:black;
+    padding-left: 10px;
+    text-align: center;
+}
+.box h4{
+    color:rgb(62, 61, 61);
+    font-size: small;
+    padding-left: 10px;
+    font-weight: 400;
+}
+.heading{
+    padding-top: 60px;
+    margin-top: 40px;
+    
+}
+.boxsize{
+    background-color:whitesmoke;
+    color: rgb(164, 164, 197);
+    border-radius: 8px;
+    width: 100vh;
+    height: 250px;
+    padding-left: 10px;
+    align-items: center;
+    margin-left: 200px;
+    margin-top: 10px;
+}
+.edit{
+    border-color: whitesmoke;
+    background-color: whitesmoke;
+    
+}
